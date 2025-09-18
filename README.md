@@ -1,14 +1,74 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/NVwbV6S/github-banner.png" alt="Shashikumar G N - Business Analyst" width="100%" />
+</p>
 
-**Shashi2811/Shashi2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I’m Shashikumar G N 👋</h1>
+<h3 align="center">Business Analyst | Power BI & SQL | Turning data into dashboards & insights that drive business impact</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shashi2811&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🔗 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn–Shashikumar%20GN-blue?logo=linkedin)](https://www.linkedin.com/in/shashikumargn28/)  
+[![GitHub](https://img.shields.io/badge/GitHub–Shashi2811-lightgrey?logo=github)](https://github.com/Shashi2811)  
+
+---
+
+## 💼 About Me  
+- **Business Analyst** with expertise in **Power BI dashboards, SQL data modeling, and Excel analytics**  
+- Experienced in **streamlining reporting workflows** and **improving decision-making with KPI tracking**  
+- Passionate about bridging **business needs and data solutions** to create measurable impact  
+
+---
+
+## 🛠 Core Skills  
+
+- **Business Intelligence:** Power BI, Tableau  
+- **Data Management:** SQL, Power Query, Data Modeling  
+- **Analytics & Reporting:** Excel (Advanced), KPI Design, Dashboarding  
+
+---
+
+## 📂 Featured Projects  
+
+- 📦 **Shipment & Backlog Analysis** → Built KPI dashboards in Power BI & SQL to track backlog, shipments, and revenue  
+- ⚙️ **Operational Efficiency Reporting (Analogica)** → Streamlined SQL workflows, reducing data processing delays by 30%  
+- 📊 **Sales Insights Dashboard (BYJU’S)** → Visualized pipeline & conversion data to enhance sales visibility  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashi2811&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>  
+  
+  <!-- Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=Shashi2811&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>  
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shashi2811&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>  
+</p>
+
+
+
+
+
+
+---
+
+## 📫 Let’s Talk  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashikumargn28/)  
+- 📧 shashikumargn280@gmail.com  
+
+---
+
+<p align="center">
+⭐ <i>“I build dashboards and data models that turn business questions into measurable answers.”</i> ⭐
+</p>
