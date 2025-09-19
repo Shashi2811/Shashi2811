@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/NVwbV6S/github-banner.png" alt="Shashikumar G N - Business Analyst" width="100%" />
+  <img src="https://github.com/Shashi2811/Shashi2811/blob/main/GIT_Banner.png" alt="Shashikumar G N - Business Analyst" width="100%"/>
 </p>
+
 
 <h1 align="center">Hi, I’m Shashikumar G N 👋</h1>
 <h3 align="center">Business Analyst | Power BI & SQL | Turning data into dashboards & insights that drive business impact</h3>
@@ -44,14 +45,18 @@
 
 ## 📈 GitHub Stats  
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashi2811&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Shashi2811&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashi2811&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>  
-  
-  <!-- Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Shashi2811&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>  
-  
-  <!-- Top Languages -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shashi2811&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>  
 </p>
 
